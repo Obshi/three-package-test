@@ -1,0 +1,21 @@
+{
+  "name": "three-rotate-cube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obshi/ThreeRotateCube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obshi/ThreeRotateCube/issues"
+  },
+  "dependencies": {
+    "three": "^0.100.0"
+  }
+}

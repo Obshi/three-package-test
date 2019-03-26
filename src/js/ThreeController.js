@@ -1,5 +1,6 @@
 import * as THREE from 'three';
-import RotateCube from 'three-rotate-cube'
+// import RotateCube from 'three-rotate-cube'
+import RotateCube from './utils/ThreeRotateCube'
 
 window.THREE = THREE;
 
